@@ -8,7 +8,7 @@ This initiative is a tribute to the Iron Lady Sridevi Arunprakash
 <br><br><br>
 <img align="left" alt="webp" src="https://media.swipepages.com/2023/2/5fcde7acf64f9100108c719e/logos-2.webp?raw=true" width="470" height="147" />
 <br><br>
-For International Womens Day, I chose to participate in a women-empowering initiative by GUVI that derived itself from the successful tech precedent, AI-for-India, that holds the prestigious Guinness World Record(GWR), which I had participated in and received my own Record Particpant Certificate in from GWR.
+For International Womens Day, I chose to participate in a women-empowering initiative that derived itself from the successful tech precedent, AI-for-India, that holds the prestigious Guinness World Record(GWR), which I had participated in and received my own Record Particpant Certificate in from GWR.
 
 AI-for-Women is aiming to upskill more than 10,000 women globally online with the tech skills associated with Artificial Intelligence & Machine Learning. 
 <br><br>
