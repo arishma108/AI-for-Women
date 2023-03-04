@@ -1,11 +1,11 @@
 # AI-for-Women
-Celebrating and supporting women in tech.
+Celebrating and supporting women in tech by creating an AI app with an ML model.
 
-<br><br><br>
+<br><br>
 Helping women to accelerate their careers in tech with a seamless approach to upskilling. 
 This initiative is a tribute to the Iron Lady Sridevi Arunprakash
 
-<br><br><br>
+<br><br>
 
 ### Accredited by:
 <br><br><br>
@@ -17,22 +17,22 @@ For International Womens Day, I chose to participate in a women-empowering initi
 
 AI-for-Women is aiming to upskill more than 10,000 women globally online with the tech skills associated with Artificial Intelligence & Machine Learning. 
 
-<br><br><br>
+<br><br>
 
 ### Why should women learn AI & ML?
-<br><br><br>
+<br><br>
 
 #### AI world needs women’s potential
 # 16%
 According to the Stanford Institute’s AI Index Report, women make up only 16% of tenure-track faculty focused on AI globally.
-<br><br><br>
+<br><br>
 
 Her demand in organizations
 # 67%
 67% of Deloitte’s survey with women and men working in AI and machine learning strongly agreed that having more women within an organization can directly benefit a business.
-<br><br><br>
+<br><br>
 
 Improvises AI with uniqueness
 # 71%
 71% strongly upvoted in Deloitte’s survey that adding women to AI and ML will bring unique perspectives to high-tech that are needed in the industry
-<br><br><br>
+<br><br>
