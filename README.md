@@ -9,4 +9,4 @@ This initiative is a tribute to our Iron Lady & Co-Founder Sridevi Arunprakash
 
 Accredited by:
 <br>
-<img align="left" alt="webp" src="https://media.swipepages.com/2023/2/5fcde7acf64f9100108c719e/logos-2.webp?raw=true" width="495" height="225" />
+<img align="left" alt="webp" src="https://media.swipepages.com/2023/2/5fcde7acf64f9100108c719e/logos-2.webp?raw=true" width="495" height="325" />
